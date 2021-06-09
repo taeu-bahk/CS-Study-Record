@@ -3,11 +3,11 @@
 
 # Computer-Science Study Record
 > Taeu Bahk CS 공부 기록 + 프로젝트 </br>
-> 목표1: Java/JSP/Spring-based 웹 개발 </br>
-> 목표2: Java/JSP/Spring-based IoT 서버 개발 </br>
-> 목표3: IoT Client Log Data Engineering </br>
+> 목표1: Java/JSP/Spring-based 웹 백엔드 개발자 </br>
+> 목표2: Java/JSP/Spring-based IoT 서버 개발자 </br>
+> 목표3: IoT Client Log Data Engineer </br>
 > 목표4: IoT Log & Wireless Packet "Data Engineer" capable of ML/DL </br>
-> 목  적: `Data Collection & Processing` for anomaly or intrusion detection </br>
+> 목   적: `Data Collection & Processing` for anomaly or intrusion detection </br>
 
 ## Programming
 
