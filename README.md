@@ -34,7 +34,7 @@
 > [유닉스 시스템 & 네트워크 프로그래밍(영진닷컴, 2014)](https://book.naver.com/bookdb/book_detail.nhn?bid=6440813) </br>
 > [Boost.Asio C++ 네트워크 프로그래밍 쿡북(에이콘출판, 2017)](https://book.naver.com/bookdb/book_detail.nhn?bid=6440813) </br>
 
-## Programming
+## Web Programming
 
 ### 웹 디자인 (HTML5, CSS3 등)
 > [W3School(完)](https://book.naver.com/bookdb/book_detail.nhn?bid=6440813) </br>
@@ -58,8 +58,8 @@
 * Hive
 ### NoSQL
 > [NoSQL]
-* `Elasticsearch`
-* Splunk, MongoDB
+* `Elasticsearch`, Splunk
+* MongoDB
 * Redis
 * Cassandra, HBase
 
@@ -98,7 +98,7 @@
   * [핸즈 온 머신러닝](https://book.naver.com/bookdb/book_detail.nhn?bid=6440813) </br>
 * 딥러닝
   * [밑바닥부터 시작하는 딥러닝(完, 한빛미디어, 2017)](https://book.naver.com/bookdb/book_detail.nhn?bid=6440813) </br>
-  * [C++을 이용한 인공지능 구현](https://book.naver.com/bookdb/book_detail.nhn?
+  * [C++을 이용한 인공지능 구현](https://book.naver.com/bookdb/book_detail.nhn?bid=6440813) </br>
 * 강화학습
   * [강](https://book.naver.com/bookdb/book_detail.nhn?bid=6440813) </br>
 
