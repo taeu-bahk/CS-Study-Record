@@ -2,12 +2,12 @@
 > [기계학습 기반 적대적 예제의 다중 레이블 분류 기법](http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=276486619396e823ffe0bdc3ef48d419) </br>
 
 # Computer-Science Study Record
-> Taeu Bahk CS 공부 기록 + 프로젝트
-> 목표1: Java/JSP/Spring-based 웹 개발
-> 목표2: Java/JSP/Spring-based IoT 서버 개발
-> 목표3: IoT Client Log Data Engineering
-> 목표4: IoT Log & Wireless Packet "Data Engineer" capable of ML/DL
-> 목  적: `Data Collection & Processing` for anomaly or intrusion detection
+> Taeu Bahk CS 공부 기록 + 프로젝트 </br>
+> 목표1: Java/JSP/Spring-based 웹 개발 </br>
+> 목표2: Java/JSP/Spring-based IoT 서버 개발 </br>
+> 목표3: IoT Client Log Data Engineering </br>
+> 목표4: IoT Log & Wireless Packet "Data Engineer" capable of ML/DL </br>
+> 목  적: `Data Collection & Processing` for anomaly or intrusion detection </br>
 
 ## Programming
 
