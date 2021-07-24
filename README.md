@@ -3,10 +3,10 @@
 
 # Computer-Science Study Record
 > Taeu Bahk CS 공부 기록 + 프로젝트 </br>
-> 목표1: Java/JSP/Spring-based 웹 백엔드 개발자 </br>
-> 목표2: Java/JSP/Spring-based IoT 서버 개발자 </br>
-> 목표3: IoT Client Log Data Engineer </br>
-> 목표4: IoT Log & Wireless Packet "Data Engineer" capable of ML/DL </br>
+> 목표1: [SERVICE/PRODUCT] Java/JSP/Spring-based 웹 백엔드 개발자 </br>
+> 목표2: [SERVICE/PRODUCT] Java/JSP/Spring-based IoT 서버 개발자 </br>
+> 목표3: [DATA] IoT Client Log(syslog) Data Engineer </br>
+> 목표4: [DATA] IoT Log & Wireless Packet(pcap) "Data Engineer" capable of ML/DL </br>
 > 목   적: `Data Collection & Processing` for anomaly or intrusion detection </br>
 
 ## Programming
@@ -110,6 +110,9 @@
 
 ## AI 엔지니어링/개발
 
+### Python v3 lang
+> [파](https://book.naver.com/bookdb/book_detail.nhn?bid=6440813) </br>
+
 ### AI librarys
 * TensorFlow v2
 * PyTorch, ...
@@ -126,9 +129,9 @@
 ### SDN
 > [SDN 입문(영진닷컴, 2014)](https://book.naver.com/bookdb/book_detail.nhn?bid=6440813) </br>
 
-## 퍼블릭 블록체인
+## 블록체인
 
-### 퍼블릭 블록체인 이론 // Ethereum, `Ripple`, EOS, Litecoin
+### 블록체인 이론
 > [블록체인 구조와 이론(完)](https://book.naver.com/bookdb/book_detail.nhn?bid=6440813) </br>
 ### Solidity 언어 및 DApp 개발
 > [이더리움 블록체인 게임 개발(完)](https://book.naver.com/bookdb/book_detail.nhn?bid=6440813) </br>
