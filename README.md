@@ -33,20 +33,16 @@
 # 4. 관심 ML 분야
 #### Detection 문제
 > 네트워크 트래픽 데이터
->> 머신러닝
->> 딥러닝
+1. 머신러닝(DT, RF, X-BOOST, SVM, MLP)
+2. 딥러닝(AE, VAE, DAE, SAE, DASE, DCGAN, AnoGAN, GANomaly)
 > 로그 데이터
->> 머신러닝
->> 딥러닝
+1. 통계(BoW, TF-IDF)
+2. 딥러닝(RNN, Bi-LSTM, GRU, seq2seq, Attetion, Transformer)
 > SNS 데이터
+
 #### Clustering 문제
 > 네트워크 트래픽 데이터
->> 머신러닝
->> 딥러닝
-> 로그 데이터
->> 머신러닝
->> 딥러닝
-> 적대적 예제
+>> 머신러닝(PCA, PCA+DBSCAN, LDA+kMeans)
 
 
 # 5. CONTACT
